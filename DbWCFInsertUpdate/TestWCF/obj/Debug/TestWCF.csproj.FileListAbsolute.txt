@@ -1,0 +1,6 @@
+c:\users\jacks\onedrive\documents\visual studio 2015\Projects\DbWCFInsertUpdate\TestWCF\obj\Debug\TestWCF.csprojResolveAssemblyReference.cache
+C:\Users\jacks\OneDrive\Documents\Visual Studio 2015\Projects\DbWCFInsertUpdate\TestWCF\bin\Debug\TestWCF.exe.config
+C:\Users\jacks\OneDrive\Documents\Visual Studio 2015\Projects\DbWCFInsertUpdate\TestWCF\bin\Debug\TestWCF.exe
+C:\Users\jacks\OneDrive\Documents\Visual Studio 2015\Projects\DbWCFInsertUpdate\TestWCF\bin\Debug\TestWCF.pdb
+C:\Users\jacks\OneDrive\Documents\Visual Studio 2015\Projects\DbWCFInsertUpdate\TestWCF\obj\Debug\TestWCF.exe
+C:\Users\jacks\OneDrive\Documents\Visual Studio 2015\Projects\DbWCFInsertUpdate\TestWCF\obj\Debug\TestWCF.pdb
